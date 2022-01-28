@@ -1,0 +1,88 @@
+Please enter your name : Laila
+Please enter your state : Selangor
+Please enter your gender : Female
+Please enter your age : 21
+
+Welcome to the Green Eagle Seed Application,Laila
+
+You have a notification from the application !
+Hello Laila
+Feel free to check the seeds we offer !
+* * * * * * * * * * * *
+MENU
+Type of seed      * Price (200g) * Price (500g) 
+**************************************************************
+Apple             *    RM60      *   RM110      
+Premium Apple     *    RM70      *   RM120      
+Strawberry        *    RM80      *   RM150      
+Premium Strawberry*    RM90      *   RM160      
+Grape             *    RM50      *   RM100      
+Premium Grape     *    RM60      *   RM110      
+Orange            *    RM45      *    RM90      
+Premium Orange    *    RM55      *   RM100      
+**************************************************************
+
+Please enter the type of seed you want to buy : Strawberry
+Choose either 200g or 500g : 500
+Enter the price of seed you want to buy : RM150
+How many bag of seed you want to buy ? : 6
+* * * * * * * * 
+Please enter the second type of seed you want : Grape
+Choose either 200g or 500g : 500
+Enter the price of seed you want to buy : RM100
+How many bag of seed you want to buy ? : 5
+
+* * * * * * * * 
+Enter the number of seed types you want to buy: 2
+Enter the 1 name :
+Strawberry
+Enter the 2 name :
+Grape
+The seeds you want to buy are : 
+Strawberry
+Grape
+The total price of your products : RM1400
+* * * * * * * * 
+
+
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
+These are only for users' information.
+The total price of 200g seeds are : RM510
+The most expensive seed's price is : RM90
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
+
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
+The total price of 500g seeds are : RM940
+The most expensive seed's price is : RM160
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
+Are you a member ?
+Enter 'Y' if you are a member. 
+Enter 'N' if you are not a member.
+N
+Do you want to be a member ?
+Enter 'A' if you want to be a member. 
+Enter 'B' if you do not want to be a member.
+A
+Your member's name is Laila
+
+If you are a member, you will get benefits like down below :
+You will get a RM5 off voucher for next purchase for minimum spending RM100. 
+If you are spending RM300 and above, you will get a RM10 off for next purchase, a free tool and free delivery.
+
+You can choose the method of paying.
+Enter [1] for online banking. 
+Enter [2] for cash on delivery.
+Please enter your choice : 3
+INVALID METHOD
+Please enter your choice again : 6
+INVALID METHOD
+Please enter your choice again : 1
+You are choosing online banking as a payment method.
+
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
+You will get 25% off as a new member.
+You have to pay RM50 per year to keep being a member.
+You get RM350 off.
+You have to pay RM5 for delivery cost.
+The final amount you have to pay is RM1105
+* * * * * * * * * * * * * * * * * *  *  * *  * * * * * * * *
