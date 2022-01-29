@@ -7,6 +7,10 @@ public class FRUITS3 {
 		
        Scanner scan = new Scanner (System.in);
 		
+		String name;
+		String address;
+		String gender;
+		int age;
 		String fruit, fruit2;
 		int weight, weight2;
 		int amount, amount2;
